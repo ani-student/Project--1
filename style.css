@@ -1,0 +1,46 @@
+.container {
+    text-align: center;
+    font-size: 2rem;
+}
+
+.main_container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.btn {
+    margin: 8px;
+    border-radius: 20%;
+    border: 10px solid black;
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: greenyellow;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.flash {
+    background-color: #fff;
+}
+
+.userflash {
+    background-color: green;
+}
